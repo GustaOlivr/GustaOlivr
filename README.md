@@ -8,14 +8,14 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="synthwave_code.gif">
+    <img align="left" height="250" alt="coding-time" src="synthwave_code.gif" style="margin-right: 30px;">
     <h1 align="center">Tecnologias que utilizo</h1>
-    <img align="center" height="60" width="60" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="60" width="60" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="60" width="60" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="60" width="60" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" height="60" width="60" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" height="60" width="60" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+    <img align="center" height="50" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="50" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="50" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="50" width="50" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" height="50" width="50" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" height="50" width="50" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
    </div>
     
   
