@@ -14,14 +14,14 @@
       <img align="center" height="50" width="50" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
       <h1 align="center">Contatos</h1>
         <a href = "mailto: gustavooliveira812@gmail.com">
-          <img width="30" src="gmail.png">
+          <img width="50" src="gmail.png">
         </a>
         <a href = "https://www.linkedin.com/in/gustavo-oliveira-da-cunha-606097269/">
-          <img width="30" src="linkedin.png">
+          <img width="50" src="linkedin.png">
         </a>
         <br><br>
       <div display=inline-block">
-        <img align="center" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GtOliv3r&layout=compact&langs_count=16&theme=neon">
+        <img align="center" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GtOliv3r&layout=compact&langs_count=16&theme=midnight-purple">
       </div>
     </div>
  </div>
