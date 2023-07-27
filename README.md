@@ -25,5 +25,3 @@
       </div>
     </div>
  </div>
-
-![Snake animation](https://github.com/GtOliv3r/GtOliv3r/blob/output/github-contribution-grid-snake.svg)
