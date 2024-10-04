@@ -1,6 +1,5 @@
 
- <h1 align=center> Heeey! Welcome to my profile!</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=A033F7&center=true&width=435&separator=%3C&lines=Hello!+It's+a+pleasure+to+meet+you.%3CI'm+a+backend+developer+from+Brazil+;)%3CC%23+%7C+.NET+%7C+Git+%7C+Gitflow+%7C+Nest.js+%3CI'm+always+learning+new+technologies!)](https://git.io/typing-svg)
 
 <div align="center">
   <img align="center" height="350" alt="coding-time" src="synthwave_code.gif" style="margin-top: 30px;">
