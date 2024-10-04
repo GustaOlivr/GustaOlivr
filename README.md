@@ -1,8 +1,13 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=A033F7&center=true&width=435&separator=%3C&lines=Hello!+It's+a+pleasure+to+meet+you.%3CI'm+a+backend+developer+from+Brazil+;)%3CC%23+%7C+.NET+%7C+Git+%7C+Gitflow+%7C+Nest.js+%3CI'm+always+learning+new+technologies!)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=25&duration=1&pause=1000&color=A033F7&center=true&vCenter=true&repeat=false&width=435&lines=Gustavo+Oliveira" alt="Typing SVG" /></a>
+  
+  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=25&duration=2000&pause=1000&color=A033F7&center=true&width=435&separator=%3C&lines=Hello!+It's+a+pleasure+to+meet+you.%3CI'm+a+backend+developer+from+Brazil+;)%3CC%23+%7C+.NET+%7C+Git+%7C+Gitflow+%7C+Nest.js+%3CI'm+always+learning+new+technologies!" alt="Typing SVG" /></a></h1>
+</div>
+
 
 <div align="center">
-  <img align="center" height="350" alt="coding-time" src="synthwave_code.gif" style="margin-top: 30px;">
+  <img align="center" height="250" alt="coding-time" src="synthwave_code.gif" style="margin-top: 30px;">
   <div align="center">
     <h1 align="center">Tecnologias que utilizo</h1>
       <img align="center" height="50" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
