@@ -21,24 +21,26 @@
 
 <p align="left">Estou sempre em busca de aprender e crescer através do estudo, e adoro ter a chance de aplicar meu conhecimento em projetos inovadores! Se você tem uma ideia brilhante e deseja contar com um desenvolvedor cheio de força de vontade ao seu lado, não hesite em me chamar! Vamos juntos dar vida a esse projeto incrível!</p>  
 
-<p align="center">Minha stack</p>
-      <img align="center" height="50" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" height="50" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" height="50" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" height="50" width="50" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-      <img align="center" height="50" width="50" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-      <img align="center" height="50" width="50" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+  <p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=25&duration=1&pause=1000&color=A033F7&center=true&vCenter=true&repeat=false&width=435&lines=My+Stack" alt="Typing SVG" /></p>
+      <img align="center" height="60" width="60" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+      <img align="center" height="50" width="50" alt=".NET-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+      <img align="center" height="60" width="60" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+      <img align="center" height="60" width="60" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+      <img align="center" height="60" width="60" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+      <img align="center" height="60" width="60" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+      <img align="center" height="80" width="80" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg">
+      <img align="center" height="60" width="60" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg">
+      <img align="center" height="40" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" height="40" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <h1 align="center">Contatos</h1>
         <a href = "mailto: gustavooliveira812@gmail.com">
-          <img width="50" src="gmail.png">
+          <img width="40" src="gmail.png">
         </a>
         <a href = "https://www.linkedin.com/in/gustavo-oliveira-da-cunha-606097269/">
-          <img width="50" src="linkedin.png">
+          <img width="40" src="linkedin.png">
         </a>
         <br><br>
-      <div display=inline-block">
-        <img align="center" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GtOliv3r&layout=compact&langs_count=16&theme=midnight-purple">
-      </div>
     </div>
  </div>
 
